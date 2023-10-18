@@ -1,2 +1,2 @@
 # sample_datasets
-Sample Datastets
+Sample real datasets to test post deployment data science algorithms.
