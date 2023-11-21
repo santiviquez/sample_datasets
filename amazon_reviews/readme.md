@@ -16,8 +16,8 @@ The reference set is used to establish a baselines for performance. And the anal
 * review_title
 * language
 * product_category
-* real_sentiment (*target*)
-* negative_sentiment_pred_proba (*prediction score*)
-* neutral_sentiment_pred_proba (*prediction score*)
-* positive_sentiment_pred_proba (*prediction score*)
-* predicted_sentiment (*prediction*)
+* real_sentiment (**target**)
+* negative_sentiment_pred_proba (**prediction score**)
+* neutral_sentiment_pred_proba (**prediction score**)
+* positive_sentiment_pred_proba (**prediction score**)
+* predicted_sentiment (**prediction**)
